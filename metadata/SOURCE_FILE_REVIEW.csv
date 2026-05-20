@@ -1,0 +1,12 @@
+relative_path,role,include_status,review_note
+paper/Agent.pdf,paper_reference,local_reference_only,Final/published paper copy used for audit validation; do not treat as public-upload asset without rights review.
+code/original/da_model_2002_array/Arc.java,source_code,include_public,Original Java arc class matching the paper's arc-agent framing.
+code/original/da_model_2002_array/Evolve.java,source_code,include_public,Original Java model controller dated November 2002; strongest source match to paper model.
+code/original/da_model_2002_array/Node.java,source_code,include_public,Original Java node class with opportunity and shortest-path knowledge storage.
+code/original/da_model_2002_array/Worker.java,source_code,include_public,Original Java traveler/worker class with path and knowledge arrays.
+data/sample_inputs/grid2.txt,sample_input,include_public,Small sample input matching the original Java source format.
+code/related_model_variants/evolve_vector_variant/Arc.java,related_source_variant,include_public,Related source variant for the same model family; retained as context.
+code/related_model_variants/evolve_vector_variant/Evolve.java,related_source_variant,include_public,Related source variant using Java Vector path storage; no separate input was found.
+code/related_model_variants/evolve_vector_variant/Node.java,related_source_variant,include_public,Related node class variant.
+code/related_model_variants/evolve_vector_variant/Worker.java,related_source_variant,include_public,Related worker/traveler class variant.
+code/related_model_variants/evolve_vector_variant/example1.html,obsolete_launcher,include_public,Obsolete Java applet launcher retained only as source-context metadata.
