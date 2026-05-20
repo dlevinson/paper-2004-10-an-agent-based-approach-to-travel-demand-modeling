@@ -1,6 +1,6 @@
 # License Status: An Agent-Based Approach To Travel Demand Modeling
 
-Generated: 2026-05-20 15:23:47 AEST
+Generated: 2026-05-20 15:32:54 AEST
 
 Recorded license/access note from the verified audit row: Publisher terms apply to the paper PDF; author-created code has no explicit license in the inspected files.
 
