@@ -1,5 +1,9 @@
 # An Agent-Based Approach To Travel Demand Modeling
 
+## Contribution
+
+This paper develops a travel-demand model in which trips and traffic patterns emerge from interactions among traveler, node, and link agents. Explicitly representing goals, knowledge, search, and learning enables disaggregate trip distribution and assignment without path enumeration, with demonstrations on a grid and the Chicago sketch network.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2004-10`
