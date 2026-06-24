@@ -14,6 +14,12 @@ This paper develops a travel-demand model in which trips and traffic patterns em
 
 This package contains the author-side Java model source that matches the paper's node, arc, traveler, opportunity-search, and learning formulation, plus a small sample input file. The package does not include the third-party Chicago sketch network, CATS 1990 Household Travel Survey calibration data, or publisher-licensed article files for public redistribution.
 
+Repository boundary licenses are recorded in [`LICENSE.md`](./LICENSE.md):
+
+- MIT for author-created software and scripts.
+- CC BY 4.0 for author-created sample inputs and repository documentation.
+- Original terms retained for `paper/` copies and any third-party assets.
+
 ## Included Contents
 
 - `code/original/da_model_2002_array/`: original Java source variant dated November 2002, using array-based path and knowledge storage. This is the strongest match to the model described in the paper.
